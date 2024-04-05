@@ -20,17 +20,18 @@ body{
     align-items: center;
     /* gap: 10px; */
     /* row-gap: 0px; */
-    column-gap: 16%;
+    column-gap: 15%;
 }
 .item{
     /* font-size: 100%; */
     /* width: 10%; */
     background-color:#112C50 ;
     width: 100%;
+    margin-left: 10px;
 }
 .item a{
     text-decoration: none;
-    font-size: 40px;
+    font-size: 35px;
     color: white;
 }
 footer{
